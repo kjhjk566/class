@@ -66,7 +66,7 @@ int main() {
     Point p3;
     p3=p1+p2;
 
-    kjh kkk
+    kjh kk
 
     p3.output();
 
