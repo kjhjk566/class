@@ -63,7 +63,7 @@ int main() {
     p1.setx(2);
     p2.setx(3);
 
-    Point p3;
+    Point p3; lm
 
     p3=p1+p2;
 
