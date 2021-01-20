@@ -63,9 +63,10 @@ int main() {
     p1.setx(2);
     p2.setx(3);
 
-    Point p3; lm
-
+    Point p3;
     p3=p1+p2;
+
+    kjh kkk
 
     p3.output();
 
